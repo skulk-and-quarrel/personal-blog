@@ -28,16 +28,16 @@ Okay, here is the comparative analysis of the initial takes versus the retrospec
 
 ## Comparison of Takes  
 
-### Format Speed  
+### Format Speed
 
-**Initial Take:** Slower than anticipated pre-release, with longer games observed. Aggro isn't necessarily Tier 1. Board stalls contribute.  
-**Retrospective Reality:** Significantly slower than expected, one of the slower formats in recent memory. Traditional card evaluation heuristics were upended.  
-**Accuracy Analysis:** The initial take correctly identified the *direction* (slower than billed) but significantly underestimated the *degree* of slowness and its profound impact on the entire format's card evaluations and dynamics. The retrospective confirms it wasn't just "not fast," but actively *slow*.  
-**Key Factors:** Early Access games might not have fully revealed the dominance of Green's large creatures or how optimized decks would leverage late-game value, leading to an underestimation of the format's eventual pace.  
-**Quotes:**  
-- Initial: "despite feeling like we got start your engines and nailed that as like the major mechanic of the format the set didn't feel as fast as I thought it was"  
-- Retrospective: "this is actually one of the slower formats we've seen incertainly the play booster era..."  
-**Verdict:** Partially Accurate  
+**Initial Take:** Slower than anticipated based on pre-release hype, leading to long, grindy games despite aggressive mechanics. High confidence.
+**Retrospective Reality:** Confirmed to be much slower than expected, one of the slowest Play Booster formats. This significantly impacted card evaluations.
+**Accuracy Analysis:** Highly accurate. The early access gameplay correctly identified the format's defining characteristic, deviating from initial community expectations.
+**Key Factors:** Direct gameplay experience quickly revealed the board complexity and tendency for games to go long, overriding assumptions based on mechanics alone.
+**Quotes:**
+-   Initial: "despite feeling like we got start your engines and nailed that as like the major mechanic of the format the set didn't feel as fast as I thought it was"
+-   Retrospective: "ether drift was build in previews as too fast and Too Furious but the vehicle set drove under the speed limit... this is actually one of the slower formats we've seen"
+**Verdict:** Highly Accurate
 
 ### Board Stalls  
 
